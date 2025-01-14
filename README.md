@@ -1,8 +1,6 @@
-Measure Battery Capacity on a Linux Laptop Using the Terminal:
+### Measure Battery Capacity on a Linux Laptop Using the Terminal:
 
 ---
-
-### **1. Using System Files (`/sys/class/power_supply`)**
 
 Linux provides detailed information about the battery in the `/sys/class/power_supply/` directory. You can check the current capacity and the design capacity of the battery.
 
@@ -37,15 +35,11 @@ This indicates that the battery is at 78% of its original capacity.
 
 
 ---
----
----
 
 
-Medir a capacidade da bateria em laptop Linux, com o terminal:
+### Medir a capacidade da bateria em laptop Linux, com o terminal:
 
 ---
-
-### **1. Usando Arquivos do Sistema (`/sys/class/power_supply`)**
 
 O Linux fornece informações detalhadas sobre a bateria no diretório `/sys/class/power_supply/`. Você pode verificar a capacidade atual e a capacidade de projeto (design capacity) da bateria.
 
